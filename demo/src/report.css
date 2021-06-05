@@ -1,0 +1,58 @@
+.report{
+    margin-top: 12px;
+    margin-left: 5px;
+   display: flex;
+}
+
+.repo1{
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.link1{
+    width: 80px;
+    margin-left: 2px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.repo2{
+    text-decoration: none;
+    color: inherit;
+    margin-left: 15px;
+    font-weight: bold;
+    background-color: white;
+    
+}
+.table{
+    margin-left: 1px;
+    background-color: white;
+    margin-right: 290px;
+}
+.mytable{
+    margin-right: 50px;
+    
+    
+}
+.row3{
+    padding-left: 20px;
+}
+
+.mytable tr{
+    padding-left: 30px;
+}
+.blue{
+    background-color: rgb(203, 229, 240);
+}
+ .link2{
+    background-color:transparent;
+    width: 80px;
+    margin-left: 2px;
+    height: 50px;
+    padding-left: 2px;
+    display: flex;
+    align-items: center;
+
+}

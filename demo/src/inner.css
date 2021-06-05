@@ -1,0 +1,40 @@
+.in1{
+    display: flex;
+    width: 96%;
+    height: 15%;
+    background-color:white;
+    margin-right: 5px;
+    font-weight: bold;
+    
+
+}
+
+.para1{
+    font-size: 13px;
+    margin-bottom: 1px;
+    margin-left: 4px;
+}
+.para2{
+    margin-top: 8px;
+    font-size: 22px;
+    margin-left: 4px;
+}
+.perct{
+    margin-left: 3px;
+    color: orange;
+}
+.div2{
+    width: 15%;
+    height: 110%;
+}
+.div1{
+    width: 13%;
+    margin-left: 26px;
+    height: 110%;
+}
+
+.perc{
+    color: orange ;
+    margin-left: 4px;
+    
+}

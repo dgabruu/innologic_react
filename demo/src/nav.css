@@ -1,0 +1,36 @@
+.sidenav{
+
+    display: inline-block;
+    height: 640px;
+    width: 40px;
+    border-right:transparent;
+    margin-top: 80px;
+    float: left;
+}
+.container a{
+
+    padding-top: 30px;
+    text-decoration: none;
+    color: inherit;
+}
+.c1{
+    color: inherit;
+}
+
+ .sidenav1{
+    /* position: absolute;
+    bottom: 0; */
+    margin-top: 330px;
+    margin-left: 15px;   
+
+}
+
+@media screen and (max-width: 500px){
+    .sidenav1{
+        
+        display: flex;
+        margin-top: 100px;
+        
+        background-color: lawngreen;
+    }
+}

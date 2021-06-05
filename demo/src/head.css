@@ -1,0 +1,35 @@
+.head{
+    
+    height: 20px;
+    display: flex;
+    margin-left:28px;
+    align-items: flex-end;
+    outline: none ;
+    margin-top:8px;
+    
+}
+.btn{
+    padding-right: 20px;
+    background-color:transparent;
+    color: black;
+}
+
+.head .end{
+    margin-left: 65rem;
+   
+}
+
+@media screen and (max-width: 700px){
+    .head{
+        
+        display: flex;
+        margin-left: 5px;
+        background-color: lawngreen;
+        
+    }
+    .head .end{
+        display: flex;
+       margin-left: 60vh;
+       
+    }
+}
