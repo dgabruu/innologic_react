@@ -8,7 +8,7 @@ const inner=()=>{
             <div className='shadow div2'>
                 <p className='para1'>Budget 1</p>
                 <h3 className='para2'><strong>${data.inner1.data1}</strong></h3>
-                <p className='perct'>4% <span className='text-dark'style={{fontSize:'14px',fontWeight:'normal'}}>above annual budget</span></p> 
+                <p className='perct'>4% <span className='text-dark'style={{fontSize:'14px',fontWeight:'normal'}}>above  budget</span></p> 
             </div>
             <div className='shadow div1'>
                 <p className='para1'>Budget 2</p>

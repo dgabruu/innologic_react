@@ -19,17 +19,44 @@
    
 }
 
-@media screen and (max-width: 700px){
+@media (max-width:880px)
+  {
     .head{
+    
         
         display: flex;
-        margin-left: 5px;
-        background-color: lawngreen;
+        outline: none ;
         
     }
+
     .head .end{
-        display: flex;
-       margin-left: 60vh;
+        margin-left: 25rem;
        
     }
-}
+  }
+
+  @media (max-width:440px)
+  {
+    .head{
+    
+        
+        display: flex;
+        outline: none ;
+        box-sizing: border-box;
+        margin-top: 2px;
+        position: relative;
+        top:-850px;
+        left:10px
+        
+    }
+
+    .shadow{
+
+        width: 800px;
+    }
+
+    .head .end{
+        margin-left: 28rem;
+       
+    }
+  }

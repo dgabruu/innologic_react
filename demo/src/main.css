@@ -27,3 +27,34 @@
     background-color: transparent;
     padding-left: 5px;
 }
+
+@media (max-width:880px)
+{
+    .custom{
+       
+        width: 28%;
+        
+        padding-left: 5px;
+    }
+    .main{
+       
+    height: 120%;
+    width: 95%;
+    }
+
+    .p1{
+        width: 170px;
+       
+    }
+
+}
+
+@media (max-width:450px)
+{
+    .main{
+       
+        height: 135%;
+        width: 65%;
+        }
+    
+}  

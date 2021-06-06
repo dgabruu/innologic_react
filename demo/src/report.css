@@ -56,3 +56,33 @@
     align-items: center;
 
 }
+
+@media (max-width:880px)
+{
+    .table{
+       
+        padding-right: 30rem;
+        font-size: 12px;
+        
+    }
+    .mytable{
+        margin-right: 40rem;
+        
+        
+    }
+}
+
+@media (max-width:440px)
+{
+    .table{
+       
+        padding-right: 60rem;
+        font-size: 16px;
+        
+    }
+    .mytable{
+        margin-right: 60rem;
+        
+        
+    }
+}

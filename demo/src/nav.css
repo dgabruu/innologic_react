@@ -29,8 +29,19 @@
     .sidenav1{
         
         display: flex;
-        margin-top: 100px;
+        margin-top: 160px;
         
-        background-color: lawngreen;
+        
+    }
+
+
+    .sidenav{
+
+        
+        height: 800px;
+        width: 40px;
+        border-right:transparent;
+        margin-top: 80px;
+        float: left;
     }
 }

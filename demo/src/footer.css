@@ -18,7 +18,7 @@ ul li{
 
 .pagination{
     margin-top: 10px;
-    margin-left: 40vh;
+    margin-left: 2vh;
 }
 
 .round  {
@@ -34,3 +34,39 @@ ul li{
   .active{
       background-color: blue;
   }
+
+  @media (max-width:880px)
+{
+    .footer{
+
+        letter-spacing: -0.2px;
+        display: flex;
+        box-sizing: border-box;
+    }
+
+    .p1{
+        margin-left:50 px;
+        letter-spacing: -0.2px; 
+       width: 160px;
+       
+    }
+    .p2{
+        display: flex;
+        margin-left: 170px;
+     }
+   
+     .round  {
+        
+        border:solid rgb(233, 230, 230)
+      }
+
+}
+@media (max-width:440px)
+{
+    .p2{
+        display: flex;
+        margin-left: 280px;
+     }
+
+}
+
